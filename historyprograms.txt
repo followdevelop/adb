@@ -1,0 +1,12 @@
+    1  apt-get update && apt-get upgrade && apt-get install vim && apt-get install tree
+    2  apt -get install cmus
+    3  apt-get install cmus
+    4  apt-get install youtube-dl
+    5  cd /media/jeisson/A44231D64231ADC4/instaladores/debian
+    6  dpkg -i code_1.28.0-1538751525_amd64.deb 
+    7  dpkg -i docker-ce_18.06.1~ce~3-0~debian_amd64.deb 
+    8  dpkg -i google-chrome-stable_current_amd64.deb 
+    9  apt install git
+   10  apt --fix-broken install
+   11  history | xargs -0 echo >> /home/jeisson/Documentos/historyprograms.txt
+

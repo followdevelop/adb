@@ -1,0 +1,45 @@
+WIFISLAX
+WIFIWAY
+KALI-LINUX
+
+suite Aircrack-ng
+wep, wpa, wpa2
+handshake
+airmon-ng - promiscuo de nuestra red inalambrica
+airdump-ng - capturar los paquetes
+aircrak-ng - sacar la constraseña
+aireplay-ng - crackear con diccionario
+airbase-ng - punto de acceso falso
+
+WASHY REAVER
+wps wifi protected setup
+lanzar atake fuerza bruta}
+
+BULLYCIOSO- evolucion de REAVER
+script mas rapido paso a paso para conseguir el pin del wps
+
+PIXIE DUST ATTACK - PIXIEWPS
+redesZone como sacar la pin del wps 
+sin atakes al propio router
+offline
+
+WPSPINgenerator by seguridad wireless
+pin defecto 12345670 - cambiarlo
+
+GOSCRIPT 
+LINSET
+copnfigurar rogue ap
+para que la victima se conecte al punto falso 
+
+PIRIT Y COWPATTY
+crear tablas rainbow de claves wpa y wpa2
+atake a fuerza bruta ,. usa el gpu , para aunmentar velocidad
+COWPATTY herramienta que procesa las tablas rainbow que ha creado pirit 
+mas rapido que si wopwatty procesara texto plano
+
+DICCIONARIOS WEP WPA WPA2
+algoritmos de los fabricantes para las constraseña
+
+crunch , 
+para diccionarios de claves wifi
+puede trabajar conjuntamente con aircrack-ng

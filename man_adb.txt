@@ -147,6 +147,8 @@ adb connect 192.168.0.9:5556
 
 http://codetheory.in/android-debug-bridge-adb-wireless-debugging-over-wi-fi/
 ------------------------
-adb shell screenrecord /sdcard/demo.mp4
-adb pull /sdcard/demo.mp4
+adb shell screenrecord /sdcard/demo.mp4 && adb pull /sdcard/demo.mp4
 adb shell pm list packages
+
+
+adb shell screencap -p /sdcard/screenshot.png && adb pull /sdcard/screenshot.png 
